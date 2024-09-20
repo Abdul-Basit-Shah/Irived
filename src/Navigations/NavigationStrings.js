@@ -1,0 +1,23 @@
+/* eslint-disable prettier/prettier */
+export default {
+  ON_BOARDING: 'onBoarding',
+  LOG_IN: 'Login',
+  SIGN_UP: 'Signup',
+  BOTTOM_STACK: 'BottomStack',
+  HOME: 'Home',
+  ORDERS: 'Orders',
+  MESSAGE: 'Message',
+  PROFILE: 'PROFILE',
+  Cart: 'Cart',
+  NOTIFICATION: 'Notification',
+  Filter: 'Filter',
+  FAVOURITES: 'Favourite',
+  PRODUCTS_LIST: 'ProductList',
+  REVIEW: 'Review',
+  PRODUCT_DETAILS: 'Productdetail',
+  PERSONAL_INFO: 'Personalinfo',
+  FAV_SHOP: 'FavShop',
+  FAV_PRODUCTS: 'FavProducts',
+  SEARCH: 'Search',
+  CHECKOUT: 'Checkout',
+};
